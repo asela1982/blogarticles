@@ -1,0 +1,219 @@
+incomelevel,iso2code,name
+High income,AW,Aruba
+Low income,AF,Afghanistan
+Lower middle income,AO,Angola
+Upper middle income,AL,Albania
+High income,AD,Andorra
+High income,AE,United Arab Emirates
+Upper middle income,AR,Argentina
+Lower middle income,AM,Armenia
+Upper middle income,AS,American Samoa
+High income,AG,Antigua and Barbuda
+High income,AU,Australia
+High income,AT,Austria
+Upper middle income,AZ,Azerbaijan
+Low income,BI,Burundi
+High income,BE,Belgium
+Low income,BJ,Benin
+Low income,BF,Burkina Faso
+Lower middle income,BD,Bangladesh
+Upper middle income,BG,Bulgaria
+High income,BH,Bahrain
+High income,BS,"Bahamas, The"
+Upper middle income,BA,Bosnia and Herzegovina
+Upper middle income,BY,Belarus
+Upper middle income,BZ,Belize
+High income,BM,Bermuda
+Lower middle income,BO,Bolivia
+Upper middle income,BR,Brazil
+High income,BB,Barbados
+High income,BN,Brunei Darussalam
+Lower middle income,BT,Bhutan
+Upper middle income,BW,Botswana
+Low income,CF,Central African Republic
+High income,CA,Canada
+High income,CH,Switzerland
+High income,JG,Channel Islands
+High income,CL,Chile
+Upper middle income,CN,China
+Lower middle income,CI,Cote d'Ivoire
+Lower middle income,CM,Cameroon
+Low income,CD,"Congo, Dem. Rep."
+Lower middle income,CG,"Congo, Rep."
+Upper middle income,CO,Colombia
+Low income,KM,Comoros
+Lower middle income,CV,Cabo Verde
+Upper middle income,CR,Costa Rica
+Upper middle income,CU,Cuba
+High income,CW,Curacao
+High income,KY,Cayman Islands
+High income,CY,Cyprus
+High income,CZ,Czech Republic
+High income,DE,Germany
+Lower middle income,DJ,Djibouti
+Upper middle income,DM,Dominica
+High income,DK,Denmark
+Upper middle income,DO,Dominican Republic
+Upper middle income,DZ,Algeria
+Upper middle income,EC,Ecuador
+Lower middle income,EG,"Egypt, Arab Rep."
+Low income,ER,Eritrea
+High income,ES,Spain
+High income,EE,Estonia
+Low income,ET,Ethiopia
+High income,FI,Finland
+Upper middle income,FJ,Fiji
+High income,FR,France
+High income,FO,Faroe Islands
+Lower middle income,FM,"Micronesia, Fed. Sts."
+Upper middle income,GA,Gabon
+High income,GB,United Kingdom
+Lower middle income,GE,Georgia
+Lower middle income,GH,Ghana
+High income,GI,Gibraltar
+Low income,GN,Guinea
+Low income,GM,"Gambia, The"
+Low income,GW,Guinea-Bissau
+Upper middle income,GQ,Equatorial Guinea
+High income,GR,Greece
+Upper middle income,GD,Grenada
+High income,GL,Greenland
+Lower middle income,GT,Guatemala
+High income,GU,Guam
+Upper middle income,GY,Guyana
+High income,HK,"Hong Kong SAR, China"
+Lower middle income,HN,Honduras
+Upper middle income,HR,Croatia
+Low income,HT,Haiti
+High income,HU,Hungary
+Lower middle income,ID,Indonesia
+High income,IM,Isle of Man
+Lower middle income,IN,India
+High income,IE,Ireland
+Upper middle income,IR,"Iran, Islamic Rep."
+Upper middle income,IQ,Iraq
+High income,IS,Iceland
+High income,IL,Israel
+High income,IT,Italy
+Upper middle income,JM,Jamaica
+Lower middle income,JO,Jordan
+High income,JP,Japan
+Upper middle income,KZ,Kazakhstan
+Lower middle income,KE,Kenya
+Lower middle income,KG,Kyrgyz Republic
+Lower middle income,KH,Cambodia
+Lower middle income,KI,Kiribati
+High income,KN,St. Kitts and Nevis
+High income,KR,"Korea, Rep."
+High income,KW,Kuwait
+Lower middle income,LA,Lao PDR
+Upper middle income,LB,Lebanon
+Low income,LR,Liberia
+Upper middle income,LY,Libya
+Upper middle income,LC,St. Lucia
+High income,LI,Liechtenstein
+Lower middle income,LK,Sri Lanka
+Lower middle income,LS,Lesotho
+High income,LT,Lithuania
+High income,LU,Luxembourg
+High income,LV,Latvia
+High income,MO,"Macao SAR, China"
+High income,MF,St. Martin (French part)
+Lower middle income,MA,Morocco
+High income,MC,Monaco
+Lower middle income,MD,Moldova
+Low income,MG,Madagascar
+Upper middle income,MV,Maldives
+Upper middle income,MX,Mexico
+Upper middle income,MH,Marshall Islands
+Upper middle income,MK,"Macedonia, FYR"
+Low income,ML,Mali
+High income,MT,Malta
+Lower middle income,MM,Myanmar
+Upper middle income,ME,Montenegro
+Lower middle income,MN,Mongolia
+High income,MP,Northern Mariana Islands
+Low income,MZ,Mozambique
+Lower middle income,MR,Mauritania
+Upper middle income,MU,Mauritius
+Low income,MW,Malawi
+Upper middle income,MY,Malaysia
+Upper middle income,NA,Namibia
+High income,NC,New Caledonia
+Low income,NE,Niger
+Lower middle income,NG,Nigeria
+Lower middle income,NI,Nicaragua
+High income,NL,Netherlands
+High income,NO,Norway
+Low income,NP,Nepal
+Upper middle income,NR,Nauru
+High income,NZ,New Zealand
+High income,OM,Oman
+Lower middle income,PK,Pakistan
+Upper middle income,PA,Panama
+Upper middle income,PE,Peru
+Lower middle income,PH,Philippines
+High income,PW,Palau
+Lower middle income,PG,Papua New Guinea
+High income,PL,Poland
+High income,PR,Puerto Rico
+Low income,KP,"Korea, Dem. People’s Rep."
+High income,PT,Portugal
+Upper middle income,PY,Paraguay
+Lower middle income,PS,West Bank and Gaza
+High income,PF,French Polynesia
+High income,QA,Qatar
+Upper middle income,RO,Romania
+Upper middle income,RU,Russian Federation
+Low income,RW,Rwanda
+High income,SA,Saudi Arabia
+Lower middle income,SD,Sudan
+Low income,SN,Senegal
+High income,SG,Singapore
+Lower middle income,SB,Solomon Islands
+Low income,SL,Sierra Leone
+Lower middle income,SV,El Salvador
+High income,SM,San Marino
+Low income,SO,Somalia
+Upper middle income,RS,Serbia
+Low income,SS,South Sudan
+Lower middle income,ST,Sao Tome and Principe
+Upper middle income,SR,Suriname
+High income,SK,Slovak Republic
+High income,SI,Slovenia
+High income,SE,Sweden
+Lower middle income,SZ,Swaziland
+High income,SX,Sint Maarten (Dutch part)
+High income,SC,Seychelles
+Lower middle income,SY,Syrian Arab Republic
+High income,TC,Turks and Caicos Islands
+Low income,TD,Chad
+Low income,TG,Togo
+Upper middle income,TH,Thailand
+Lower middle income,TJ,Tajikistan
+Upper middle income,TM,Turkmenistan
+Lower middle income,TL,Timor-Leste
+Upper middle income,TO,Tonga
+High income,TT,Trinidad and Tobago
+Lower middle income,TN,Tunisia
+Upper middle income,TR,Turkey
+Upper middle income,TV,Tuvalu
+High income,TW,"Taiwan, China"
+Low income,TZ,Tanzania
+Low income,UG,Uganda
+Lower middle income,UA,Ukraine
+High income,UY,Uruguay
+High income,US,United States
+Lower middle income,UZ,Uzbekistan
+Upper middle income,VC,St. Vincent and the Grenadines
+Upper middle income,VE,"Venezuela, RB"
+High income,VG,British Virgin Islands
+High income,VI,Virgin Islands (U.S.)
+Lower middle income,VN,Vietnam
+Lower middle income,VU,Vanuatu
+Upper middle income,WS,Samoa
+Lower middle income,XK,Kosovo
+Lower middle income,YE,"Yemen, Rep."
+Upper middle income,ZA,South Africa
+Lower middle income,ZM,Zambia
+Low income,ZW,Zimbabwe
